@@ -13,6 +13,8 @@
 		FC6B7D1F1DFD691700547DA1 /* Birthday_Book.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FC6B7D1D1DFD691700547DA1 /* Birthday_Book.xcdatamodeld */; };
 		FC6B7D211DFD691700547DA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC6B7D201DFD691700547DA1 /* Assets.xcassets */; };
 		FC6B7D241DFD691700547DA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC6B7D221DFD691700547DA1 /* LaunchScreen.storyboard */; };
+		FC6B7D2C1DFD6A6D00547DA1 /* createFriendVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6B7D2B1DFD6A6D00547DA1 /* createFriendVC.swift */; };
+		FC6B7D2E1DFD6FF700547DA1 /* tapmeimage.png in Resources */ = {isa = PBXBuildFile; fileRef = FC6B7D2D1DFD6FF700547DA1 /* tapmeimage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FC6B7D201DFD691700547DA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC6B7D231DFD691700547DA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC6B7D251DFD691700547DA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC6B7D2B1DFD6A6D00547DA1 /* createFriendVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createFriendVC.swift; sourceTree = "<group>"; };
+		FC6B7D2D1DFD6FF700547DA1 /* tapmeimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tapmeimage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +62,12 @@
 			children = (
 				FC6B7D161DFD691700547DA1 /* AppDelegate.swift */,
 				FC6B7D181DFD691700547DA1 /* ViewController.swift */,
+				FC6B7D2B1DFD6A6D00547DA1 /* createFriendVC.swift */,
 				FC6B7D1A1DFD691700547DA1 /* Main.storyboard */,
 				FC6B7D201DFD691700547DA1 /* Assets.xcassets */,
 				FC6B7D221DFD691700547DA1 /* LaunchScreen.storyboard */,
 				FC6B7D251DFD691700547DA1 /* Info.plist */,
+				FC6B7D2D1DFD6FF700547DA1 /* tapmeimage.png */,
 				FC6B7D1D1DFD691700547DA1 /* Birthday_Book.xcdatamodeld */,
 			);
 			path = "Birthday Book";
@@ -130,6 +136,7 @@
 				FC6B7D241DFD691700547DA1 /* LaunchScreen.storyboard in Resources */,
 				FC6B7D211DFD691700547DA1 /* Assets.xcassets in Resources */,
 				FC6B7D1C1DFD691700547DA1 /* Main.storyboard in Resources */,
+				FC6B7D2E1DFD6FF700547DA1 /* tapmeimage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC6B7D2C1DFD6A6D00547DA1 /* createFriendVC.swift in Sources */,
 				FC6B7D1F1DFD691700547DA1 /* Birthday_Book.xcdatamodeld in Sources */,
 				FC6B7D191DFD691700547DA1 /* ViewController.swift in Sources */,
 				FC6B7D171DFD691700547DA1 /* AppDelegate.swift in Sources */,

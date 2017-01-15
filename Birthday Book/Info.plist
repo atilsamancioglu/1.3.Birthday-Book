@@ -22,6 +22,10 @@
 	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>So We Can Choose Your Friend&apos;s Photo!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>So We Can Choose Your Friend&apos;s Photo!</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
